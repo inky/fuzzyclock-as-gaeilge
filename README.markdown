@@ -5,7 +5,7 @@ An Irish language file for [FuzzyClock][fc] (OS X).
 
 For best results, use a Gaelic typeface such as [Glanchló][gc].
 
-![Screenshot](http://github.com/inky/fuzzyclock-as-gaeilge/raw/master/screenshot.png)
+![Screenshot](http://data.boxofjunk.ws/i/fuzzyclock-as-gaeilge.png)
 
 
 Installation
